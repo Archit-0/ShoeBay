@@ -19,8 +19,8 @@ It features:
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/product-filter-ui
-cd product-filter-ui
+git clone https://github.com/Archit-0/ShoeBay
+cd ShoeBay
 npm install
 npm run dev
 =======
